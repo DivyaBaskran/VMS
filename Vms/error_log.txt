@@ -1,0 +1,421 @@
+Time: 03/06/2016 12:07:54 PM
+-----------------------------------------------------------
+Message: Thread was being aborted.
+StackTrace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at Vms.login.Button1_Click(Object sender, EventArgs e) in D:\538815\final_project\Vms\Vms\login.aspx.cs:line 35
+Source: mscorlib
+TargetSite: Void AbortInternal()
+-----------------------------------------------------------
+
+Time: 03/06/2016 12:30:06 PM
+-----------------------------------------------------------
+Message: Thread was being aborted.
+StackTrace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at Vms.login.Button1_Click(Object sender, EventArgs e) in D:\538815\final_project\Vms\Vms\login.aspx.cs:line 35
+Source: mscorlib
+TargetSite: Void AbortInternal()
+-----------------------------------------------------------
+
+Time: 03/06/2016 12:42:24 PM
+-----------------------------------------------------------
+Message: Thread was being aborted.
+StackTrace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at Vms.registration.Button1_Click(Object sender, EventArgs e) in D:\538815\final_project\Vms\Vms\registration.aspx.cs:line 34
+Source: mscorlib
+TargetSite: Void AbortInternal()
+-----------------------------------------------------------
+
+Time: 03/06/2016 12:42:50 PM
+-----------------------------------------------------------
+Message: Thread was being aborted.
+StackTrace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at Vms.login.Button1_Click(Object sender, EventArgs e) in D:\538815\final_project\Vms\Vms\login.aspx.cs:line 35
+Source: mscorlib
+TargetSite: Void AbortInternal()
+-----------------------------------------------------------
+
+Time: 03/06/2016 12:50:56 PM
+-----------------------------------------------------------
+Message: Thread was being aborted.
+StackTrace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at Vms.login.Button1_Click(Object sender, EventArgs e) in D:\538815\final_project\Vms\Vms\login.aspx.cs:line 35
+Source: mscorlib
+TargetSite: Void AbortInternal()
+-----------------------------------------------------------
+
+Time: 03/06/2016 02:26:36 PM
+-----------------------------------------------------------
+Message: Thread was being aborted.
+StackTrace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at Vms.login.Button1_Click(Object sender, EventArgs e) in D:\538815\final_project\Vms\Vms\login.aspx.cs:line 35
+Source: mscorlib
+TargetSite: Void AbortInternal()
+-----------------------------------------------------------
+
+Time: 03/06/2016 02:29:01 PM
+-----------------------------------------------------------
+Message: Thread was being aborted.
+StackTrace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at Vms.login.Button1_Click(Object sender, EventArgs e) in D:\538815\final_project\Vms\Vms\login.aspx.cs:line 35
+Source: mscorlib
+TargetSite: Void AbortInternal()
+-----------------------------------------------------------
+
+Time: 03/06/2016 02:34:07 PM
+-----------------------------------------------------------
+Message: Thread was being aborted.
+StackTrace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at Vms.login.Button1_Click(Object sender, EventArgs e) in D:\538815\final_project\Vms\Vms\login.aspx.cs:line 35
+Source: mscorlib
+TargetSite: Void AbortInternal()
+-----------------------------------------------------------
+
+Time: 03/06/2016 02:36:43 PM
+-----------------------------------------------------------
+Message: Thread was being aborted.
+StackTrace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at Vms.login.Button1_Click(Object sender, EventArgs e) in D:\538815\final_project\Vms\Vms\login.aspx.cs:line 35
+Source: mscorlib
+TargetSite: Void AbortInternal()
+-----------------------------------------------------------
+
+Time: 03/06/2016 02:42:20 PM
+-----------------------------------------------------------
+Message: Thread was being aborted.
+StackTrace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at Vms.login.Button1_Click(Object sender, EventArgs e) in D:\538815\final_project\Vms\Vms\login.aspx.cs:line 35
+Source: mscorlib
+TargetSite: Void AbortInternal()
+-----------------------------------------------------------
+
+Time: 03/06/2016 02:55:16 PM
+-----------------------------------------------------------
+Message: Thread was being aborted.
+StackTrace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at Vms.login.Button1_Click(Object sender, EventArgs e) in D:\538815\final_project\Vms\Vms\login.aspx.cs:line 36
+Source: mscorlib
+TargetSite: Void AbortInternal()
+-----------------------------------------------------------
+
+Time: 03/06/2016 03:17:44 PM
+-----------------------------------------------------------
+Message: Thread was being aborted.
+StackTrace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at Vms.login.Button1_Click(Object sender, EventArgs e) in D:\538815\final_project\Vms\Vms\login.aspx.cs:line 36
+Source: mscorlib
+TargetSite: Void AbortInternal()
+-----------------------------------------------------------
+
+Time: 03/06/2016 03:52:21 PM
+-----------------------------------------------------------
+Message: Thread was being aborted.
+StackTrace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at Vms.login.Button1_Click(Object sender, EventArgs e) in D:\538815\final_project\Vms\Vms\login.aspx.cs:line 36
+Source: mscorlib
+TargetSite: Void AbortInternal()
+-----------------------------------------------------------
+
+Time: 03/06/2016 04:00:42 PM
+-----------------------------------------------------------
+Message: Thread was being aborted.
+StackTrace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at Vms.login.Button1_Click(Object sender, EventArgs e) in D:\538815\final_project\Vms\Vms\login.aspx.cs:line 36
+Source: mscorlib
+TargetSite: Void AbortInternal()
+-----------------------------------------------------------
+
+Time: 03/06/2016 04:12:26 PM
+-----------------------------------------------------------
+Message: Thread was being aborted.
+StackTrace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at Vms.login.Button1_Click(Object sender, EventArgs e) in D:\538815\final_project\Vms\Vms\login.aspx.cs:line 36
+Source: mscorlib
+TargetSite: Void AbortInternal()
+-----------------------------------------------------------
+
+Time: 03/06/2016 04:33:37 PM
+-----------------------------------------------------------
+Message: Thread was being aborted.
+StackTrace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at Vms.login.Button1_Click(Object sender, EventArgs e) in D:\538815\final_project\Vms\Vms\login.aspx.cs:line 36
+Source: mscorlib
+TargetSite: Void AbortInternal()
+-----------------------------------------------------------
+
+Time: 03/06/2016 04:36:24 PM
+-----------------------------------------------------------
+Message: Thread was being aborted.
+StackTrace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at Vms.Session_end.Button1_Click(Object sender, EventArgs e) in D:\538815\final_project\Vms\Vms\Session_end.aspx.cs:line 21
+Source: mscorlib
+TargetSite: Void AbortInternal()
+-----------------------------------------------------------
+
+Time: 03/06/2016 04:36:36 PM
+-----------------------------------------------------------
+Message: Thread was being aborted.
+StackTrace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at Vms.Session_end.Button1_Click(Object sender, EventArgs e) in D:\538815\final_project\Vms\Vms\Session_end.aspx.cs:line 21
+Source: mscorlib
+TargetSite: Void AbortInternal()
+-----------------------------------------------------------
+
+Time: 03/06/2016 04:38:07 PM
+-----------------------------------------------------------
+Message: Thread was being aborted.
+StackTrace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at Vms.login.Button1_Click(Object sender, EventArgs e) in D:\538815\final_project\Vms\Vms\login.aspx.cs:line 36
+Source: mscorlib
+TargetSite: Void AbortInternal()
+-----------------------------------------------------------
+
+Time: 03/06/2016 05:26:57 PM
+-----------------------------------------------------------
+Message: Session state has created a session id, but cannot save it because the response was already flushed by the application.
+Custom Message: Global Unhandled Errors
+StackTrace:    at System.Web.SessionState.SessionIDManager.SaveSessionID(HttpContext context, String id, Boolean& redirected, Boolean& cookieAdded)
+   at System.Web.SessionState.SessionStateModule.CreateSessionId()
+   at System.Web.SessionState.SessionStateModule.DelayedGetSessionId()
+   at System.Web.SessionState.SessionStateModule.ReleaseStateGetSessionID()
+   at System.Web.SessionState.SessionStateModule.OnReleaseState(Object source, EventArgs eventArgs)
+   at System.Web.SessionState.SessionStateModule.OnEndRequest(Object source, EventArgs eventArgs)
+   at System.Web.HttpApplication.SyncEventExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+Source: System.Web
+TargetSite: Void SaveSessionID(System.Web.HttpContext, System.String, Boolean ByRef, Boolean ByRef)
+-----------------------------------------------------------
+
+Time: 03/06/2016 05:27:28 PM
+-----------------------------------------------------------
+Message: Thread was being aborted.
+Custom Message: 
+StackTrace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at Vms.login.Button1_Click(Object sender, EventArgs e) in D:\538815\final_project\Vms\Vms\login.aspx.cs:line 36
+Source: mscorlib
+TargetSite: Void AbortInternal()
+-----------------------------------------------------------
+
+Time: 03/06/2016 05:27:41 PM
+-----------------------------------------------------------
+Message: String was not recognized as a valid DateTime.
+Custom Message: 
+StackTrace:    at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider, DateTimeStyles style)
+   at Vms.bsrs.Button2_Click(Object sender, EventArgs e) in D:\538815\final_project\Vms\Vms\bsrs.aspx.cs:line 33
+Source: mscorlib
+TargetSite: System.DateTime ParseExact(System.String, System.String, System.Globalization.DateTimeFormatInfo, System.Globalization.DateTimeStyles)
+-----------------------------------------------------------
+
+Time: 03/06/2016 05:27:43 PM
+-----------------------------------------------------------
+Message: String was not recognized as a valid DateTime.
+Custom Message: 
+StackTrace:    at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider, DateTimeStyles style)
+   at Vms.bsrs.Button2_Click(Object sender, EventArgs e) in D:\538815\final_project\Vms\Vms\bsrs.aspx.cs:line 33
+Source: mscorlib
+TargetSite: System.DateTime ParseExact(System.String, System.String, System.Globalization.DateTimeFormatInfo, System.Globalization.DateTimeStyles)
+-----------------------------------------------------------
+
+Time: 03/06/2016 05:27:55 PM
+-----------------------------------------------------------
+Message: String was not recognized as a valid DateTime.
+Custom Message: 
+StackTrace:    at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider, DateTimeStyles style)
+   at Vms.bsrs.Button2_Click(Object sender, EventArgs e) in D:\538815\final_project\Vms\Vms\bsrs.aspx.cs:line 33
+Source: mscorlib
+TargetSite: System.DateTime ParseExact(System.String, System.String, System.Globalization.DateTimeFormatInfo, System.Globalization.DateTimeStyles)
+-----------------------------------------------------------
+
+Time: 03/06/2016 05:27:56 PM
+-----------------------------------------------------------
+Message: String was not recognized as a valid DateTime.
+Custom Message: 
+StackTrace:    at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider, DateTimeStyles style)
+   at Vms.bsrs.Button2_Click(Object sender, EventArgs e) in D:\538815\final_project\Vms\Vms\bsrs.aspx.cs:line 33
+Source: mscorlib
+TargetSite: System.DateTime ParseExact(System.String, System.String, System.Globalization.DateTimeFormatInfo, System.Globalization.DateTimeStyles)
+-----------------------------------------------------------
+
+Time: 03/06/2016 05:28:17 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+Custom Message: 
+StackTrace:    at Bus_Layer.bus_breakdown.bal_get_wed(BreakDown_Entity be) in D:\538815\final_project\Vms\Bus_Layer\bus_breakdown.cs:line 104
+   at Vms.bsrs.Button2_Click(Object sender, EventArgs e) in D:\538815\final_project\Vms\Vms\bsrs.aspx.cs:line 64
+Source: Bus_Layer
+TargetSite: System.String bal_get_wed(EntityLayer.BreakDown_Entity)
+-----------------------------------------------------------
+
+Time: 03/06/2016 05:28:20 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+Custom Message: 
+StackTrace:    at Bus_Layer.bus_breakdown.bal_get_wed(BreakDown_Entity be) in D:\538815\final_project\Vms\Bus_Layer\bus_breakdown.cs:line 104
+   at Vms.bsrs.Button2_Click(Object sender, EventArgs e) in D:\538815\final_project\Vms\Vms\bsrs.aspx.cs:line 64
+Source: Bus_Layer
+TargetSite: System.String bal_get_wed(EntityLayer.BreakDown_Entity)
+-----------------------------------------------------------
+
+Time: 03/06/2016 05:28:21 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+Custom Message: 
+StackTrace:    at Bus_Layer.bus_breakdown.bal_get_wed(BreakDown_Entity be) in D:\538815\final_project\Vms\Bus_Layer\bus_breakdown.cs:line 104
+   at Vms.bsrs.Button2_Click(Object sender, EventArgs e) in D:\538815\final_project\Vms\Vms\bsrs.aspx.cs:line 64
+Source: Bus_Layer
+TargetSite: System.String bal_get_wed(EntityLayer.BreakDown_Entity)
+-----------------------------------------------------------
+
+Time: 03/06/2016 05:28:22 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+Custom Message: 
+StackTrace:    at Bus_Layer.bus_breakdown.bal_get_wed(BreakDown_Entity be) in D:\538815\final_project\Vms\Bus_Layer\bus_breakdown.cs:line 104
+   at Vms.bsrs.Button2_Click(Object sender, EventArgs e) in D:\538815\final_project\Vms\Vms\bsrs.aspx.cs:line 64
+Source: Bus_Layer
+TargetSite: System.String bal_get_wed(EntityLayer.BreakDown_Entity)
+-----------------------------------------------------------
+
+Time: 03/06/2016 05:28:23 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+Custom Message: 
+StackTrace:    at Bus_Layer.bus_breakdown.bal_get_wed(BreakDown_Entity be) in D:\538815\final_project\Vms\Bus_Layer\bus_breakdown.cs:line 104
+   at Vms.bsrs.Button2_Click(Object sender, EventArgs e) in D:\538815\final_project\Vms\Vms\bsrs.aspx.cs:line 64
+Source: Bus_Layer
+TargetSite: System.String bal_get_wed(EntityLayer.BreakDown_Entity)
+-----------------------------------------------------------
+
+Time: 03/06/2016 05:28:24 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+Custom Message: 
+StackTrace:    at Bus_Layer.bus_breakdown.bal_get_wed(BreakDown_Entity be) in D:\538815\final_project\Vms\Bus_Layer\bus_breakdown.cs:line 104
+   at Vms.bsrs.Button2_Click(Object sender, EventArgs e) in D:\538815\final_project\Vms\Vms\bsrs.aspx.cs:line 64
+Source: Bus_Layer
+TargetSite: System.String bal_get_wed(EntityLayer.BreakDown_Entity)
+-----------------------------------------------------------
+
+Time: 03/06/2016 05:28:25 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+Custom Message: 
+StackTrace:    at Bus_Layer.bus_breakdown.bal_get_wed(BreakDown_Entity be) in D:\538815\final_project\Vms\Bus_Layer\bus_breakdown.cs:line 104
+   at Vms.bsrs.Button2_Click(Object sender, EventArgs e) in D:\538815\final_project\Vms\Vms\bsrs.aspx.cs:line 64
+Source: Bus_Layer
+TargetSite: System.String bal_get_wed(EntityLayer.BreakDown_Entity)
+-----------------------------------------------------------
+
+Time: 04/06/2016 09:47:45 AM
+-----------------------------------------------------------
+Message: Session state has created a session id, but cannot save it because the response was already flushed by the application.
+Custom Message: Global Unhandled Errors
+StackTrace:    at System.Web.SessionState.SessionIDManager.SaveSessionID(HttpContext context, String id, Boolean& redirected, Boolean& cookieAdded)
+   at System.Web.SessionState.SessionStateModule.CreateSessionId()
+   at System.Web.SessionState.SessionStateModule.DelayedGetSessionId()
+   at System.Web.SessionState.SessionStateModule.ReleaseStateGetSessionID()
+   at System.Web.SessionState.SessionStateModule.OnReleaseState(Object source, EventArgs eventArgs)
+   at System.Web.SessionState.SessionStateModule.OnEndRequest(Object source, EventArgs eventArgs)
+   at System.Web.HttpApplication.SyncEventExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+Source: System.Web
+TargetSite: Void SaveSessionID(System.Web.HttpContext, System.String, Boolean ByRef, Boolean ByRef)
+-----------------------------------------------------------
+
+Time: 04/06/2016 09:48:29 AM
+-----------------------------------------------------------
+Message: Thread was being aborted.
+Custom Message: 
+StackTrace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at Vms.login.Button1_Click(Object sender, EventArgs e) in D:\538815\final_project\Vms\Vms\login.aspx.cs:line 50
+Source: mscorlib
+TargetSite: Void AbortInternal()
+-----------------------------------------------------------
+

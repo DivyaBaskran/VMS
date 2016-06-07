@@ -1,0 +1,23 @@
+D:\538815\final_project\Vms\Vms\bin\Vms.dll
+D:\538815\final_project\Vms\Vms\bin\Vms.pdb
+D:\538815\final_project\Vms\Vms\obj\Debug\ResolveAssemblyReference.cache
+D:\538815\final_project\Vms\Vms\obj\Debug\Vms.dll
+D:\538815\final_project\Vms\Vms\obj\Debug\Vms.pdb
+D:\538815\final_project\Vms\Vms\bin\Bus_Layer.dll
+D:\538815\final_project\Vms\Vms\bin\DataLayer.dll
+D:\538815\final_project\Vms\Vms\bin\EntityLayer.dll
+D:\538815\final_project\Vms\Vms\bin\Bus_Layer.pdb
+D:\538815\final_project\Vms\Vms\bin\DataLayer.pdb
+D:\538815\final_project\Vms\Vms\bin\EntityLayer.pdb
+C:\Users\cbdi\Desktop\Dinesh Kumar\Vms (4)\Vms\Vms\bin\Vms.dll.config
+C:\Users\cbdi\Desktop\Dinesh Kumar\Vms (4)\Vms\Vms\bin\Vms.dll
+C:\Users\cbdi\Desktop\Dinesh Kumar\Vms (4)\Vms\Vms\bin\Vms.pdb
+C:\Users\cbdi\Desktop\Dinesh Kumar\Vms (4)\Vms\Vms\bin\Bus_Layer.dll
+C:\Users\cbdi\Desktop\Dinesh Kumar\Vms (4)\Vms\Vms\bin\DataLayer.dll
+C:\Users\cbdi\Desktop\Dinesh Kumar\Vms (4)\Vms\Vms\bin\EntityLayer.dll
+C:\Users\cbdi\Desktop\Dinesh Kumar\Vms (4)\Vms\Vms\bin\Bus_Layer.pdb
+C:\Users\cbdi\Desktop\Dinesh Kumar\Vms (4)\Vms\Vms\bin\DataLayer.pdb
+C:\Users\cbdi\Desktop\Dinesh Kumar\Vms (4)\Vms\Vms\bin\EntityLayer.pdb
+C:\Users\cbdi\Desktop\Dinesh Kumar\Vms (4)\Vms\Vms\obj\Debug\Vms.csprojResolveAssemblyReference.cache
+C:\Users\cbdi\Desktop\Dinesh Kumar\Vms (4)\Vms\Vms\obj\Debug\Vms.dll
+C:\Users\cbdi\Desktop\Dinesh Kumar\Vms (4)\Vms\Vms\obj\Debug\Vms.pdb

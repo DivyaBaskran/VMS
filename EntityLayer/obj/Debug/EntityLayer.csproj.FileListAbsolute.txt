@@ -1,0 +1,5 @@
+D:\538815\final_project\Vms\EntityLayer\bin\Debug\EntityLayer.dll
+D:\538815\final_project\Vms\EntityLayer\bin\Debug\EntityLayer.pdb
+D:\538815\final_project\Vms\EntityLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\538815\final_project\Vms\EntityLayer\obj\Debug\EntityLayer.dll
+D:\538815\final_project\Vms\EntityLayer\obj\Debug\EntityLayer.pdb

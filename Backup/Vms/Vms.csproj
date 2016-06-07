@@ -1,0 +1,332 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{1B505179-A463-474A-9925-55A0110EEA94}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Vms</RootNamespace>
+    <AssemblyName>Vms</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="about_us.aspx" />
+    <Content Include="Activity log\Activity.txt" />
+    <Content Include="booking.aspx" />
+    <Content Include="booking_msg.aspx" />
+    <Content Include="break_down.aspx" />
+    <Content Include="bsrs.aspx" />
+    <Content Include="confirmed_csrs.aspx" />
+    <Content Include="confirm_deli_warr.aspx" />
+    <Content Include="csrs.aspx" />
+    <Content Include="Delivery_confirm.aspx" />
+    <Content Include="deli_warr.aspx" />
+    <Content Include="erroer.aspx" />
+    <Content Include="error_log.txt" />
+    <Content Include="false_booking.aspx" />
+    <Content Include="false_insurance.aspx" />
+    <Content Include="Global.asax" />
+    <Content Include="Home.aspx" />
+    <Content Include="Insurance.aspx" />
+    <Content Include="insur_custid_confirmation.aspx" />
+    <Content Include="login.aspx" />
+    <Content Include="logout.aspx" />
+    <Content Include="plc_confirmed.aspx" />
+    <Content Include="purchase_msg.aspx" />
+    <Content Include="registration.aspx" />
+    <Content Include="servicing.aspx" />
+    <Content Include="servicing_regi_success.aspx" />
+    <Content Include="ser_csrs.aspx" />
+    <Content Include="Session_end.aspx" />
+    <Content Include="validate_cid.aspx" />
+    <Content Include="Web.config" />
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="about_us.aspx.cs">
+      <DependentUpon>about_us.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="about_us.aspx.designer.cs">
+      <DependentUpon>about_us.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Activity_log.cs" />
+    <Compile Include="booking.aspx.cs">
+      <DependentUpon>booking.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="booking.aspx.designer.cs">
+      <DependentUpon>booking.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="booking_msg.aspx.cs">
+      <DependentUpon>booking_msg.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="booking_msg.aspx.designer.cs">
+      <DependentUpon>booking_msg.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="break_down.aspx.cs">
+      <DependentUpon>break_down.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="break_down.aspx.designer.cs">
+      <DependentUpon>break_down.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="bsrs.aspx.cs">
+      <DependentUpon>bsrs.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="bsrs.aspx.designer.cs">
+      <DependentUpon>bsrs.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="confirmed_csrs.aspx.cs">
+      <DependentUpon>confirmed_csrs.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="confirmed_csrs.aspx.designer.cs">
+      <DependentUpon>confirmed_csrs.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="confirm_deli_warr.aspx.cs">
+      <DependentUpon>confirm_deli_warr.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="confirm_deli_warr.aspx.designer.cs">
+      <DependentUpon>confirm_deli_warr.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="csrs.aspx.cs">
+      <DependentUpon>csrs.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="csrs.aspx.designer.cs">
+      <DependentUpon>csrs.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Delivery_confirm.aspx.cs">
+      <DependentUpon>Delivery_confirm.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Delivery_confirm.aspx.designer.cs">
+      <DependentUpon>Delivery_confirm.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="deli_warr.aspx.cs">
+      <DependentUpon>deli_warr.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="deli_warr.aspx.designer.cs">
+      <DependentUpon>deli_warr.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="erroer.aspx.cs">
+      <DependentUpon>erroer.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="erroer.aspx.designer.cs">
+      <DependentUpon>erroer.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="erroer_log.cs" />
+    <Compile Include="false_booking.aspx.cs">
+      <DependentUpon>false_booking.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="false_booking.aspx.designer.cs">
+      <DependentUpon>false_booking.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="false_insurance.aspx.cs">
+      <DependentUpon>false_insurance.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="false_insurance.aspx.designer.cs">
+      <DependentUpon>false_insurance.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Home.aspx.cs">
+      <DependentUpon>Home.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Home.aspx.designer.cs">
+      <DependentUpon>Home.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Home.Master.cs">
+      <DependentUpon>Home.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Home.Master.designer.cs">
+      <DependentUpon>Home.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Insurance.aspx.cs">
+      <DependentUpon>Insurance.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Insurance.aspx.designer.cs">
+      <DependentUpon>Insurance.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="insur_custid_confirmation.aspx.cs">
+      <DependentUpon>insur_custid_confirmation.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="insur_custid_confirmation.aspx.designer.cs">
+      <DependentUpon>insur_custid_confirmation.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="login.aspx.cs">
+      <DependentUpon>login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="login.aspx.designer.cs">
+      <DependentUpon>login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="logout.aspx.cs">
+      <DependentUpon>logout.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="logout.aspx.designer.cs">
+      <DependentUpon>logout.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="plc_confirmed.aspx.cs">
+      <DependentUpon>plc_confirmed.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="plc_confirmed.aspx.designer.cs">
+      <DependentUpon>plc_confirmed.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="purchase_msg.aspx.cs">
+      <DependentUpon>purchase_msg.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="purchase_msg.aspx.designer.cs">
+      <DependentUpon>purchase_msg.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="registration.aspx.cs">
+      <DependentUpon>registration.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="registration.aspx.designer.cs">
+      <DependentUpon>registration.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="servicing.aspx.cs">
+      <DependentUpon>servicing.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="servicing.aspx.designer.cs">
+      <DependentUpon>servicing.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="servicing_regi_success.aspx.cs">
+      <DependentUpon>servicing_regi_success.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="servicing_regi_success.aspx.designer.cs">
+      <DependentUpon>servicing_regi_success.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ser_csrs.aspx.cs">
+      <DependentUpon>ser_csrs.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ser_csrs.aspx.designer.cs">
+      <DependentUpon>ser_csrs.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Session_end.aspx.cs">
+      <DependentUpon>Session_end.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Session_end.aspx.designer.cs">
+      <DependentUpon>Session_end.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="validate_cid.aspx.cs">
+      <DependentUpon>validate_cid.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="validate_cid.aspx.designer.cs">
+      <DependentUpon>validate_cid.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Home.Master" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Bus_Layer\Bus_Layer.csproj">
+      <Project>{07C3C1D7-EFDC-4D88-969F-8EE91E7ACED0}</Project>
+      <Name>Bus_Layer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DataLayer\DataLayer.csproj">
+      <Project>{B32C70D6-9A21-4EF6-A9B6-5C388BE90593}</Project>
+      <Name>DataLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EntityLayer\EntityLayer.csproj">
+      <Project>{FEC24DE1-CCD5-4B95-B303-BD25BAA28E5C}</Project>
+      <Name>EntityLayer</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>49816</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
